@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Codetech @ Leg Godt]]></title>
         <description><![CDATA[Codetech @ Leg Godt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/codetech-leg-godt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 16:53:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 05 Feb 2016 18:38:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/codetech-leg-godt/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/60b00100-a40a-4cae-8b40-23b088afb7d6.JPG">]]></description>
-            <link>undefined81ef0378-f14c-4703-9330-a06ba91a0178/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0978b444-56ce-49b0-acb8-a9d8ae674679.jpg">]]></description>
+            <link>https://thegrid.ai/codetech-leg-godt/81ef0378-f14c-4703-9330-a06ba91a0178/index.html</link>
             <guid isPermaLink="false">81ef0378-f14c-4703-9330-a06ba91a0178</guid>
-            <pubDate>Fri, 05 Feb 2016 16:52:13 GMT</pubDate>
+            <pubDate>Fri, 05 Feb 2016 18:38:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
