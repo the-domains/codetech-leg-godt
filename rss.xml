@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Codetech @ Leg Godt]]></title>
+        <description><![CDATA[Codetech @ Leg Godt]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 05 Feb 2016 16:53:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/60b00100-a40a-4cae-8b40-23b088afb7d6.JPG">]]></description>
+            <link>undefined81ef0378-f14c-4703-9330-a06ba91a0178/index.html</link>
+            <guid isPermaLink="false">81ef0378-f14c-4703-9330-a06ba91a0178</guid>
+            <pubDate>Fri, 05 Feb 2016 16:52:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
