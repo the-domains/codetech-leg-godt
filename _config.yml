@@ -1,0 +1,28 @@
+name: Codetech @ Leg Godt
+favicon: null
+layout_spectrum: 0.6165611403994262
+typography_spectrum: 0.40164068154990673
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.09452858776785433
+  lightness: 0.4257547608576715
+  saturation: 0.769487155135721
+  rhythmicContrast: 0.9267592593096197
+purpose: []
